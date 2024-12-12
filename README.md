@@ -10,10 +10,11 @@ I'm a Junior double majoring in Data Science and Cognitive Science at the Univer
 - ⚡ A bit about what I like: I love video games, cooking, reading, and animals! I also love learning new things, especially languages.
 
 ## Conact Me
-![linked_in_animated]([http://www.linkedin.com/in/camille-dove])
-
+![linked_in_animated](https://github.com/user-attachments/assets/7c9c76bb-22cb-4426-a4eb-2b7c7072f397)
+![gmail_animation](https://github.com/user-attachments/assets/e0d34727-6216-484a-bb3c-9a665f644fdb)
 
 ## Tools and Frameworks
+
 ![moving_python_logo](https://github.com/user-attachments/assets/5b20e883-a018-4f02-92ac-adaf026f1ba9)
 
 <!--
